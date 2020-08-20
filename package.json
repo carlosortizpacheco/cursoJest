@@ -1,0 +1,24 @@
+{
+  "name": "cursojest",
+  "version": "1.0.0",
+  "description": "pruebas unitarias con jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:coverage": "jest --coverage",
+    "test:watch": "jest --watch"
+  },
+  "keywords": [
+    "jest",
+    "pruebas",
+    "unitarias"
+  ],
+  "author": "ch0k0 <carlos@ch0k0.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/preset-env": "^7.11.0",
+    "babel-jest": "^26.3.0",
+    "babel-polyfill": "^6.26.0",
+    "jest": "^26.4.0"
+  }
+}
