@@ -1,4 +1,5 @@
 # cursoJest
+![](https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/jest-512.png)
 
 ## Pruebas unitarias
 
@@ -29,6 +30,34 @@ No requiere una configuracion compleja.
 Potente libreria para generar "mocking"
 Funciona con Typescript
 
-## Ejemplos
+## Instalación y Configuración
+
+Para instalar Jest utilizamos el comando (--save-dev, es para guardar en modo de desarrollo): 
+`npm install --save-dev jest`
+
+Para poder usar ES6 en nuestras pruebas unitarias, instala:
+`npm install --save-dev babel-jest babel-polyfill babel-preset-es2015`
+
+
+## Métodos
+
+### CommonMatchers o Comparadores Comunes
+Los comparadores pueden ser:
+- toEqual()
+- not.toEqual()
+### Numbers
+Los comparadores númericos pueden ser:
+- .toBeGreaterThan()
+- .toBeGreaterThanOrEqual()
+- .toBeLessThan()
+- .toBeLessThanOrEqual()
+- .toBeCloseTo()
+### Truthy / Falsy
+Comparadores booleanos pueden ser:
+- .toBeNull()
+- .toBeTruthy()
+- .toBeFalsy()
+- .toBeUndefined()
+- .not.toBeTruthy()
 
 `describe("DESCRIPCION DE LA PRUEA")`
