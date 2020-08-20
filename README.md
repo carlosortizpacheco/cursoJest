@@ -1,5 +1,5 @@
 # cursoJest
-![](https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/jest-512.png)
+
 
 ## Pruebas unitarias
 
