@@ -31,6 +31,4 @@ Funciona con Typescript
 
 ## Ejemplos
 
-`describe("DESCRIPCION DE LA PRUEA")
-
-`
+`describe("DESCRIPCION DE LA PRUEA")`
