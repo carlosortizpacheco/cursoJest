@@ -6,11 +6,11 @@
 Toman todos los proyectos y lo descomponen en pequeñas partes para ver si funcionan correctamente.
 comprueban casos estandares.
 caracteristicas: 
-- automatizable
-- total cobertura
-- reutilizable
-- independientes
-- Rapidas de crear
+- Automatizable
+- Total cobertura
+- Reutilizable
+- Independientes
+- Rápidas de crear
 
 Ventajas
 - Proporcionan trabajo ágil.
@@ -21,14 +21,14 @@ Ventajas
 - Reduce el costo.
 
 
-Jest 
-herramienta para hacer pruebas unitarias en cualquier proyecto que tenga JS.
-Desarrollo rápido
-Feedback instantaneo
-Generar snapshots para comparar elementos
-No requiere una configuracion compleja.
-Potente libreria para generar "mocking"
-Funciona con Typescript
+**Jest** 
+- Herramienta para hacer pruebas unitarias en cualquier proyecto que tenga JS.
+- Desarrollo rápido
+- Feedback instantaneo
+- Generar snapshots para comparar elementos
+- No requiere una configuracion compleja.
+- Potente libreria para generar "mocking"
+- Funciona con Typescript
 
 ## Instalación y Configuración
 
